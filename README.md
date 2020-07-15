@@ -12,3 +12,8 @@ After that, we apply Isolation Forest to remove the outlier in each class.
 
 We pick out 10% training data to train the model. And we use the entire testing dataset for detection.
 ![image](https://github.com/FlamingJay/A-Practical-Intrusion-Visualization-Analyzer-based-on-Self-organizing-Map/blob/master/figure/SOM_sample_2class_300W.png)
+
+
+if this work does good for you, please cite:
+
+Wang, Jie, Yun Lin, and Lei Chen. "A Practical Intrusion Visualization Analyzer based on Self-organizing Map." IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS). IEEE, 2019.
